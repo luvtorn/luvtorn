@@ -8,6 +8,20 @@ I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate ab
 - 📱 **Responsive Design:** Ensuring websites look great on any device
 - 📚 **Continuous Learning:** Exploring new technologies and best practices
 
+- ## 🚀 Current Projects
+
+- 🔭 Working on a project using React, TypeScript, and Tailwind CSS
+- 🌱 Learning React Native
+
+## 🌱 Future Learning Goals
+
+- 🛠️ Planning to dive into Next.js
+
+## 💬 Let's Connect
+
+- 💬 Always open to discussions about web development
+- 💡 Enjoy exploring new trends and technologies
+
 ## 📈 GitHub Stats
 
 ![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvtorn&show_icons=true&theme=radical)
