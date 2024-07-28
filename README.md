@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Mikołaj
+<h1 align="center">Hi there! 👋 I'm Mikołaj</h1>
 
-I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate about creating beautiful, responsive web applications with HTML, CSS, JavaScript, and React.
+<p align="center">
+Junior Frontend developer
+</p>
 
 ## 🛠️ Skills
 
