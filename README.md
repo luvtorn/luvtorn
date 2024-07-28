@@ -34,7 +34,6 @@ Junior Frontend developer
 ![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvtorn&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-linkedin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/miko%C5%82aj-germanenka-125ba0313/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/profile.php?id=100054891041419)
 
