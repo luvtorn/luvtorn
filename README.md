@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mikołaj Germanenka
+# Hi there! 👋 I'm Mikołaj
 
 I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate about creating beautiful, responsive web applications with HTML, CSS, JavaScript, and React.
 
