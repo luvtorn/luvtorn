@@ -10,12 +10,12 @@ I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate ab
 
 ## 📈 GitHub Stats
 
-![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikolajGermanenka&show_icons=true&theme=radical)
+![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvtorn&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/miko%C5%82aj-germanenka-125ba0313/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/profile.php?id=100054891041419)
 
 Let's build something amazing together!
 
