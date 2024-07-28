@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Mikołaj</h1>
 
-<p align="center">
+<h3 align="center">
 Junior Frontend developer
-</p>
+</h3>
 
 ## 🛠️ Skills
 
