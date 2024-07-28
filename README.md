@@ -4,7 +4,7 @@
 Junior Frontend developer
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,scss,postgres,vscode,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,scss,react,ts,postgres,vscode,vite,webpack)](https://skillicons.dev)
 
 ## 🛠️ Skills
 
@@ -30,7 +30,7 @@ Junior Frontend developer
 ![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvtorn&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-
+linkedin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/miko%C5%82aj-germanenka-125ba0313/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/profile.php?id=100054891041419)
 
