@@ -31,8 +31,3 @@ I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate ab
 [![Facebook](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/profile.php?id=100054891041419)
 
 Let's build something amazing together!
-
-## 📂 Pinned Repositories
-
-- [Project 1](https://github.com/MikolajGermanenka/project1)
-- [Project 2](https://github.com/MikolajGermanenka/project2)
