@@ -4,6 +4,8 @@
 Junior Frontend developer
 </h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 🛠️ Skills
 
 - 🎨 **Front-End Development:** HTML, CSS, JavaScript, React
