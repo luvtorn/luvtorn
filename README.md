@@ -4,7 +4,7 @@
 Junior Frontend developer
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,scss,postgres,vscode,vite,webpack)](https://skillicons.dev)
 
 ## 🛠️ Skills
 
