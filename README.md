@@ -10,8 +10,7 @@ I'm an 18-year-old junior front-end developer from Poznan, Poland. Passionate ab
 
 - ## 🚀 Current Projects
 
-- 🔭 Working on a project using React, TypeScript, and Tailwind CSS
-- 🌱 Learning React Native
+- 🔭 Working on a project using React, TypeScript, and SCSS
 
 ## 🌱 Future Learning Goals
 
