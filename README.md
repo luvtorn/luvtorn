@@ -8,7 +8,7 @@ Junior Frontend developer
   Languages and tools
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,scss,react,ts,postgres,vscode,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,scss,tailwind,react,ts,postgres,vscode,vite,webpack)](https://skillicons.dev)
 
 ## 🛠️ Skills
 
